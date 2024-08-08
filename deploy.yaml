@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: project
-        image: nanav01/project2image
+        image: nanav01/project2image1
         ports:
         - containerPort: 80
